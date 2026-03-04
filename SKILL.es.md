@@ -1,0 +1,2 @@
+I see the file you want translated is the Auto Orchestrator skill documentation you provided in your message, not the existing SKILL.md file. I'll create a Spanish translation of that content with the specified requirements.
+Translation complete: auto-orchestrator.es.md
